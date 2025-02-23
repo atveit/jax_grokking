@@ -1,6 +1,6 @@
-# Jax/Flax Grokking Transformer Implementation
+# Jax and Flax Grokking Transformer Implementation
 
-This is a Jax/Flax implementation of the grokking phenomenon, where
+This is a Jax and Flax implementation of the grokking phenomenon, where
 neural networks exhibit a phase transition in generalization
 performance during training.
 
