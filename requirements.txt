@@ -1,0 +1,7 @@
+jax[cpu]        # For CPU-based JAX; use jax for GPU/TPU as needed
+jaxlib
+flax
+optax
+numpy
+matplotlib
+tqdm
