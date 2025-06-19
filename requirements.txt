@@ -5,3 +5,4 @@ optax
 numpy
 matplotlib
 tqdm
+pytest          # For testing
